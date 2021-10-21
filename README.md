@@ -6,6 +6,10 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 This was my first experience with Ruby on Rails. 
 
+## Screenshots
+
+![The Main Page as a Logged In user](https://github.com/erikmayilyan/Jungle-Rails/blob/feature/testing-add-to-cart/app/assets/images/Screen%20Shot%202021-10-20%20at%209.09.12%20PM.png)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
